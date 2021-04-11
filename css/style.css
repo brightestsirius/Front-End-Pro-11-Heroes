@@ -29,6 +29,14 @@
   height: 0;
 }
 
+.JessicaJones-progress-class{
+  margin-top: 10px;
+}
+
+.JessicaJones-progress-class .progress{
+  margin-top: 10px;
+}
+
 @-webkit-keyframes slideUp {
   0% {
     height: 0;
