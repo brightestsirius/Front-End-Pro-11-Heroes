@@ -10,3 +10,9 @@ export const jessicaJonesData = {
 	info: "Jessica Jones is a fictional superhero appearing in American comic books published by Marvel Comics. The character was created by writer Brian Michael Bendis and artist Michael Gaydos and first appeared in Alias #1 (November 2001), as part of Marvel's Max, an imprint for more mature content.",
 	img: "jessicajones"
 };
+
+export const captainMarvelData = {
+	name: "Captain Marvel",
+	info: "Captain Marvel is a fictional superhero appearing in American comic books published by Marvel Comics. The character was created by writer Brian Michael Bendis and artist Michael Gaydos and first appeared in Alias #1 (November 2001), as part of Marvel's Max, an imprint for more mature content.",
+	img: "captainmarvel"
+};
