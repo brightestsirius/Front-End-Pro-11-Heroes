@@ -15,6 +15,7 @@ class BlackPanther extends Hero {
 		let music = document.querySelector(`#${this.name}Audio`);
 		music.controls = true;
 		music.play();
+		
 	}
 
 	addElement() {

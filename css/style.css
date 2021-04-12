@@ -36,7 +36,15 @@
 .JessicaJones-progress-class .progress{
   margin-top: 10px;
 }
-
+.show_hidden{
+  display: none;
+  
+}
+.block_picture{
+  display: block;
+  margin: 15px;
+  text-align: center;
+}
 @-webkit-keyframes slideUp {
   0% {
     height: 0;
@@ -72,4 +80,5 @@
     height: 0;
   }
 }
+
 /*# sourceMappingURL=style.css.map */

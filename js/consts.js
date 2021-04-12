@@ -10,3 +10,9 @@ export const jessicaJonesData = {
 	info: "Jessica Jones is a fictional superhero appearing in American comic books published by Marvel Comics. The character was created by writer Brian Michael Bendis and artist Michael Gaydos and first appeared in Alias #1 (November 2001), as part of Marvel's Max, an imprint for more mature content.",
 	img: "jessicajones"
 };
+
+export const deadpoolData = {
+	name: "Dead-Pool",
+	info: "Dead Pool is a fictional character appearing in American comic books published by Marvel Comics. Created by writer Fabian Nicieza and artist/writer Rob Liefeld, the character first appeared in The New Mutants #98 (cover-dated February 1991)",
+	img: "deadpool"
+};
