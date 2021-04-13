@@ -1,11 +1,11 @@
+.container {
+  margin-bottom: 30px; }
+  
 .card {
-  margin-top: 20px;
-}
-
-.card-img-top {
-  height: 80px;
-  margin: 10px 10px 0 10px;
-}
+  margin-top: 20px; }
+  .card-img-top {
+    height: 80px;
+    margin: 10px 10px 0 10px; }
 
 .WolverineWP {
   position: absolute;
@@ -14,16 +14,15 @@
   right: 0;
   background-image: url("../images/wolverine-wp.jpg");
   background-position: center;
-  background-size: cover;
-}
+  background-size: cover; }
 
 .showPopup {
-  -webkit-animation: slideUp 1s;
-          animation: slideUp 1s;
-  height: 100%;
-}
+  animation: slideUp 1s;
+  height: 100%; }
 
 .hidePopup {
+  animation: slideDown 1s;
+  height: 0; 
   -webkit-animation: slideDown 1s;
           animation: slideDown 1s;
   height: 0;
@@ -36,7 +35,15 @@
 .JessicaJones-progress-class .progress{
   margin-top: 10px;
 }
-
+.show_hidden{
+  display: none;
+  
+}
+.block_picture{
+  display: block;
+  margin: 15px;
+  text-align: center;
+}
 @-webkit-keyframes slideUp {
   0% {
     height: 0;
@@ -48,28 +55,42 @@
 
 @keyframes slideUp {
   0% {
-    height: 0;
-  }
+    height: 0; }
   100% {
-    height: 100%;
-  }
-}
-
-@-webkit-keyframes slideDown {
-  0% {
-    height: 100%;
-  }
-  100% {
-    height: 0;
-  }
-}
-
+    height: 100%; } }
 @keyframes slideDown {
   0% {
-    height: 100%;
-  }
+    height: 100%; }
   100% {
+    height: 0; } }
+.popup__block {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  background: #f577cb;
+  border-radius: 8px;
+  display: none;
+  padding: 10px;
+  margin: 25px auto;
+  position: relative; }
+  .popup__block .response {
+    color: white;
+    margin: 0; }
+  .popup__block::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: -12px;
+    left: 135px;
+    width: 0;
     height: 0;
-  }
-}
+    border-style: solid;
+    border-width: 0 10px 12px 10px;
+    border-color: transparent transparent #f577cb transparent; }
+
+.show {
+  display: flex; }
+
+
+
 /*# sourceMappingURL=style.css.map */
