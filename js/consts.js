@@ -17,6 +17,7 @@ export const wonderwomanData = {
 	img: "wonderwoman",
 	page: "https://www.polygon.com/comics/22193628/best-wonder-woman-comics-of-all-time"
 }
+
 export const captainMarvelData = {
 	name: "Captain Marvel",
 	info: "Captain Marvel is a fictional superhero appearing in American comic books published by Marvel Comics. The character was created by writer Brian Michael Bendis and artist Michael Gaydos and first appeared in Alias #1 (November 2001), as part of Marvel's Max, an imprint for more mature content.",

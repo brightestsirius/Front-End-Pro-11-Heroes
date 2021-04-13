@@ -10,4 +10,3 @@ import {wonderwomanHero} from './wonderwoman.js'
 import {captainMarvelHero} from './captainmarvel.js'
 import {deadPoolHero} from './deadpool.js'
 
-console.log('new data');
