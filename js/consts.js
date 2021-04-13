@@ -11,14 +11,13 @@ export const jessicaJonesData = {
 	img: "jessicajones"
 };
 
-<<<<<<< HEAD
 export const wonderwomanData = {
 	name: "Wonder-woman",
 	info: "Wonder-woman is a 2015 American superhero film based on the Marvel Comics characters of the same name: Scott Lang and Hank Pym.",
 	img: "wonderwoman",
 	page: "https://www.polygon.com/comics/22193628/best-wonder-woman-comics-of-all-time"
 }
-=======
+
 export const captainMarvelData = {
 	name: "Captain Marvel",
 	info: "Captain Marvel is a fictional superhero appearing in American comic books published by Marvel Comics. The character was created by writer Brian Michael Bendis and artist Michael Gaydos and first appeared in Alias #1 (November 2001), as part of Marvel's Max, an imprint for more mature content.",
@@ -30,4 +29,4 @@ export const deadpoolData = {
 	info: "Dead Pool is a fictional character appearing in American comic books published by Marvel Comics. Created by writer Fabian Nicieza and artist/writer Rob Liefeld, the character first appeared in The New Mutants #98 (cover-dated February 1991)",
 	img: "deadpool"
 };
->>>>>>> 383b41e28cb091a6322104a673b5adab78f3d5f6
+
