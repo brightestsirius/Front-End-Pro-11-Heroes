@@ -91,6 +91,17 @@
 .show {
   display: flex; }
 
+  .hide_text {
+	  display: none;
+  }
+
+  .IronmanHeroclass {
+	background-color: #97e93a;  
+	margin:5px auto;
+	padding: 5px;
+	border-radius: 4px;
+  }
+
 
 
 /*# sourceMappingURL=style.css.map */
