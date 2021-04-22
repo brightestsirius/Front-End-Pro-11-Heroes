@@ -37,7 +37,7 @@ export class Hero {
 		let element = this.addElement ? this.addElement() : '';
 		divBody.append(element);
 
-		divCard.innerHTML = `<img src="images/${this.img}.svg" class="card-img-top" alt="${this.name}">`;
+		divCard.innerHTML = `<img src="images/${this.img}.svg" class="card-img-top" alt="${this.name}" id="${this.img}__logo">`;
 		divCard.append(divBody);
 
 		divTop.append(divCard);
