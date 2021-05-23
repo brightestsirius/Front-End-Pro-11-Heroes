@@ -34,3 +34,9 @@ export const scarletwitchData = {
 	info: "The Scarlet Witch (Wanda Maximoff) is a fictional character appearing in American comic books published by Marvel Comics. The character was created by writer Stan Lee and artist Jack Kirby. Her first appearance was in The X-Men #4 (March 1964) in the Silver Age of Comic Books.",
 	img: "scarletwitch"
 }
+
+export const spidermanData = {
+	name: "Spiderman",
+	info: "Spider-Man is a superhero created by writer-editor Stan Lee and writer-artist Steve Ditko. He first appeared in the anthology comic book Amazing Fantasy #15 (Aug. 1962) in the Silver Age of Comic Books. He appears in American comic books published by Marvel Comics, as well as in a number of movies, television shows, and video game adaptations set in the Marvel Universe.",
+	img: "spiderman"
+}
